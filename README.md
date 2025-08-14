@@ -34,11 +34,11 @@
   <td width="50%" align="left">
     <h3 align="left">Current Learning</h3>
       <ul  align="left">
-        <li>Learning Java EE and Hibernate to deepen my backend development expertise.</li>
-        <li>Exploring advanced Java concepts to enhance my programming skills.</li>
-        <li>Improving my proficiency in React.js and React Native for front-end and mobile app development.</li>
+        <li>Genarative AI and Intuitive projects creations.</li>
+        <li>mostly using programming tools are jupyter notebook,google colab and Vs Code etc...</li>
+        <li>AI/ML and Deep Learning Enthusists</li>
       </br>
-        <li>[🌐 Visit My Blog](https://www.stacklines.free.nf)</li>
+       
       </ul>
   </td>
 </table>
