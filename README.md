@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Thilan**
 
-<h3 align="left">Connect with me:</h3>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
