@@ -21,7 +21,7 @@
 
 
 <br>
-<h2 align="center"> 🚀 Tᴇᴄʜ Sᴛᴀᴄᴋ 🚀 </h2> 
+<h2 align="center"> 🚀🚀 Tech Stack Tools  </h2> 
 <table align="center">
   <td width="50%" align="left">
     <picture>
@@ -39,7 +39,7 @@
         <li>AI/ML and Deep Learning Enthusists</li>
       </br>
        
-      </ul>
+      
   </td>
 </table>
   
