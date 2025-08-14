@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thilan Hasitha</h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Hi,+Welcome+to+my+Github+page+I'm+Thilan+Hasitha;Computer+Engineering+Student;Intuitive+Projects;">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=75&lines=Hi,+Welcome+to+my+Github+page+I'm+Thilan+Hasitha;Computer+Engineering+Student;Intuitive+Projects;">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilanhasitha&label=Profile%20views&color=0e75b6&style=flat" alt="thilanhasitha" /> </p>
