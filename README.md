@@ -5,7 +5,7 @@
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thilanhasitha&label=Profile%20views&color=0e75b6&style=flat" alt="thilanhasitha" /> </p>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
